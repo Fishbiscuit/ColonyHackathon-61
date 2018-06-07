@@ -2,7 +2,6 @@
 
 ## Skilled Volunteerism Platform
 
-## Project Description
 Our goal is to develop a framework for an ecosystem that rewards volunteers for utilising their expertise for social causes or projects. We aim to catalyse a revolution in voluunteering beyond physical man-hours but to allow a fine-tuned experience with like-minded and empowering projects.
 
 [Soft Registration to Colony Hackathon](https://github.com/JoinColony/colonyHackathon/issues/61)
