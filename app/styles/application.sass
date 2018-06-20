@@ -1,0 +1,40 @@
+$primary-color: #333
+
+body
+  color: $primary-color
+.container 
+  max-width: 960px !important
+.h100 
+  height: 100vh !important 
+/*---------- SPACING ---------- */
+$padding-top-slug: pt !default
+$padding-bottom-slug: pb !default
+
+@for $i from 0 through 14
+  .#{$padding-top-slug}-#{$i * 10}
+    padding-top: 10 * $i + px
+
+
+@for $i from 0 through 14
+  .#{$padding-bottom-slug}-#{$i * 10}
+    padding-bottom: 10 * $i + px
+
+.hero 
+  margin-top: 30px
+/* Card */
+.card 
+  margin-bottom: 20px
+.media 
+  margin-bottom: 0 !important
+.time 
+  margin-top: 10px
+.avatar-small
+  display: inline-block
+  width: 150px
+  height: 150px
+  border-radius: 50%
+  background-repeat: no-repeat
+  background-position: center center
+  background-size: cover
+.tasks:hover
+  background: hsl(0, 0%, 99%)

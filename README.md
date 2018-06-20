@@ -10,6 +10,16 @@ Our goal is to develop a framework for an ecosystem that rewards volunteers for 
 
 [Hum Qing Ze](https://github.com/Fishbiscuit), a.k.a. QZ, comes from Singapore, where volunteering your time for non-profits is a common occurence. However, there is an issue with effective volunteer management. The sector is shifting towards effective altruism where organisations do not simply aim for high volunteer numbers but work towards real social impact.
 
+## Running the Prototype
+### Installing npm dependencies
+* `npm install`
+
+### Running the app during development
+* `npm start`
+
+### Running the app in production
+* `npm prod`
+
 ## References
 
 [Bantu](https://www.bantu.life) helps you to stay connected with the communities and causes you care about.
@@ -23,4 +33,4 @@ Our goal is to develop a framework for an ecosystem that rewards volunteers for 
 Feel free to drop me an e-mail on ideas or to work together!
 
 qingze_hum@mymail.sutd.edu.sg
-
+timothy_liu@mymail.sutd.edu.sg
