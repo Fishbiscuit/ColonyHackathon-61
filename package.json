@@ -1,0 +1,41 @@
+{
+  "name": "brunch-app",
+  "description": "Brunch.io application",
+  "private": true,
+  "author": "Brunch",
+  "version": "0.0.1",
+  "repository": "",
+  "scripts": {
+    "start": "brunch watch --server",
+    "build": "brunch build --production"
+  },
+  "dependencies": {
+    "@colony/colony-js-adapter-ethers": "^1.5.0",
+    "@colony/colony-js-client": "^1.5.0",
+    "@colony/colony-js-contract-loader-http": "^1.4.1",
+    "ethers": "^3.0.22",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-router-dom": "^4.3.1"
+  },
+  "devDependencies": {
+    "auto-reload-brunch": "^2",
+    "babel-brunch": "~6.0",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^8.2.3",
+    "babel-loader": "^7.1.4",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6",
+    "babel-preset-react": "^6.22.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "brunch": "^2",
+    "clean-css-brunch": "^2",
+    "html-webpack-plugin": "^3.2.0",
+    "pugjs-brunch": "^2.10.2",
+    "sass-brunch": "^2.10.4",
+    "uglify-js-brunch": "^2",
+    "webpack": "^4.12.0",
+    "webpack-dev-server": "^3.1.4"
+  }
+}
