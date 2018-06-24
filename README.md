@@ -1,6 +1,6 @@
 # ColonyHackathon-61
 
-## Skilled Volunteerism Platform
+## Chain Reaction: Skilled Volunteerism Platform
 
 Our goal is to develop a framework for an ecosystem that rewards volunteers for utilising their expertise for social causes or projects. We aim to catalyse a revolution in voluunteering beyond physical man-hours but to allow a fine-tuned experience with like-minded and empowering projects.
 
